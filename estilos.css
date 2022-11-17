@@ -11,7 +11,14 @@ body{
 .titulo{
     text-align: center;
     color:  #c185b393;
-    margin-bottom: 30px;
+    margin-bottom: -3px;
+    margin-top: -12px;
+}
+.to{
+    text-align: center;
+    color:  #c185b393;
+    margin-bottom: 25px;
+    font-size: 45px;
 }
 
 .form_container{
@@ -23,7 +30,7 @@ body{
 
 .form{
     width: 450px;
-    height: 500px;
+    height: 520px;
     background-color: white;
     border-radius: 8px;
     padding: 40px;
